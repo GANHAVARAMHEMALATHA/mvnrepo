@@ -1,1 +1,1 @@
-target/
+flipkar_app/target/
